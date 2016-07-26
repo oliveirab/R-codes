@@ -1,4 +1,4 @@
-#### Brunno Oliveira, 2014
+#### Brunno Oliveira, 2014 (brunno.oliveira@me.com)
 #### Universidade Federal do Rio Grande do Norte - Brasil
 #### Functions to remove outliers
 
