@@ -1,3 +1,6 @@
+#### Brunno Oliveira, 2014 (brunno.oliveira@me.com)
+#### Universidade Federal do Rio Grande do Norte - Brasil
+
 # Create background a grid of sampling probabilities.
 # Maxent can sample grid cells for background data in proportion to those probabilities.
 # For this, lets use occurrence points of all flowering plants downloaded from GBif to create your grid of ocurrence probabilities.
