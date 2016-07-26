@@ -1,3 +1,6 @@
+#### Brunno Oliveira, 2014 (brunno.oliveira@me.com)
+#### Universidade Federal do Rio Grande do Norte - Brasil
+
 codeconf <- read.csv("Mammals.csv", stringsAsFactors=F, encoding="utf8", sep=",", header=T)
 require(rgdal)
 mammals <- readOGR(dsn="All_MAMMALS_OCT2012/All_MAMMALS_OCT2012",layer="Mammals_Oct2012",input_field_name_encoding="utf8")
