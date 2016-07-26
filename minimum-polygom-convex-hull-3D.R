@@ -1,3 +1,6 @@
+#### Brunno Oliveira, 2014 (brunno.oliveira@me.com)
+#### Universidade Federal do Rio Grande do Norte - Brasil
+
 library(plot3D)
 library(FD)
 library(geometry)
